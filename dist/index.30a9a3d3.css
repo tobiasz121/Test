@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+  width: 100vw;
+  place-items: center;
+  display: flex;
+}
+
+p {
+  margin: auto;
+}
+
+/*# sourceMappingURL=index.30a9a3d3.css.map */
